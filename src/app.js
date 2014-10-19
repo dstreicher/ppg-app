@@ -1,7 +1,7 @@
 /**
- * Welcome to Pebble.js!
- *
- * This is where you write your app.
+ * Application: Pebble Propelled Grenade
+ * Author: Synergy BIS
+ * Description: Test your grenade throwing skills with this app.
  */
 
 var UI = require('ui');
